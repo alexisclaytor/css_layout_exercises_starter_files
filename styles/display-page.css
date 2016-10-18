@@ -1,0 +1,49 @@
+body{
+  padding: 60px;
+  font-size: 0;
+
+}
+.container{
+  max-height: 500px;
+  max-width: 800px;
+
+}
+
+.line{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.green-box{
+  height:200px;
+  width: 50%;
+  background-color: green;
+  display:inline-block;
+}
+.blue-box{
+  height:200px;
+  width: 50%;
+  background-color: blue;
+  display:inline-block;
+}
+
+.gray-box{
+  height: 300px;
+  width: 33.33%;
+  background-color: gray;
+  display: inline-block;
+}
+
+.black-box{
+  height: 300px;
+  width: 33.33%;
+  background-color: black;
+  display: inline-block;
+}
+
+.golden-box{
+  height: 300px;
+  width: 33.33%;
+  background-color: gold;
+  display: inline-block;
+}
