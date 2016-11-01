@@ -7,9 +7,35 @@ nav{
 }
 
 img{
-  
+  width: 50px;
+  vertical-align: middle;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 60px;
+  border: 1px solid black;
+  border-radius: 50%;
 }
 
 ul{
-  left; 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+nav ul li {
+  display: inline-block;
+  padding: 5px;
+}
+
+body {
+  background-image: url(../images/outerspace_landscape.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.greenbox{
+  width: 600px;
+  height: 300px;
+  border: 10px green dotted;
+  margin: auto;
+
 }
